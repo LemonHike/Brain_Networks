@@ -24,5 +24,8 @@ The analysis involves several steps:
 
 The study reveals that brain networks exhibit distinct topological features, including small-world and scale-free properties, which are essential for efficient information processing and resilience against failures. Age-related changes are evident in the network structure, with older age groups showing more specialized and robust connectivity patterns.
 
-**Note:** Some outputs in the Jupyter notebook may not display correctly due to rendering limitations. For the best viewing experience, consider running the notebook locally using Jupyter Notebook or Jupyter Lab.
+**Note:** 
+1) Some outputs in the Jupyter notebook may not display correctly due to rendering limitations. For the best viewing experience, consider running the notebook locally using Jupyter Notebook or Jupyter Lab.
+2) Some outputs in the PDF may not display correctly due to rendering limitations on GitHub. For the best viewing experience, please access the PDF through this [link to Google Drive](https://drive.google.com/file/d/1v1A628gjY4lg0XAI0gEc_RLblxOwjbOJ/view?usp=sharing).
+
 
