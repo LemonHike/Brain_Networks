@@ -23,7 +23,3 @@ The analysis involves several steps:
 ## Results
 
 The study reveals that brain networks exhibit distinct topological features, including small-world and scale-free properties, which are essential for efficient information processing and resilience against failures. Age-related changes are evident in the network structure, with older age groups showing more specialized and robust connectivity patterns.
-
-## Conclusion
-
-Graph-theoretical analysis provides valuable insights into the structural organization of the brain and its evolution across different stages of adulthood. The study identifies key brain regions that play a central role in maintaining network efficiency, offering potential biomarkers for neurological conditions.
