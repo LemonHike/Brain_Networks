@@ -2,6 +2,10 @@
 
 This repository contains a project focused on analyzing the graph-theoretical properties of the human brain's structural networks. Using graph theory, this project explores the organization and changes in the brain's structural connectivity across different age groups, providing insights into cognitive functions and potential implications for neurological conditions.
 
+**Note:** 
+1) Some outputs in the Jupyter notebook may not display correctly due to rendering limitations. For the best viewing experience, consider running the notebook locally using Jupyter Notebook or Jupyter Lab.
+2) Some outputs in the PDF may not display correctly due to rendering limitations on GitHub. For the best viewing experience, please access the PDF through this [link to Google Drive](https://drive.google.com/file/d/1v1A628gjY4lg0XAI0gEc_RLblxOwjbOJ/view?usp=sharing).
+
 ## Introduction
 
 Understanding the structural connectivity of the brain is crucial for gaining insights into its organization, development, and potential deterioration due to aging or disease. This project uses graph theory to model brain networks, where nodes represent brain regions, and edges denote connections between them. By applying various graph metrics, such as degree distribution, clustering coefficients, and centrality measures, this study investigates the efficiency and resilience of brain networks.
@@ -24,8 +28,5 @@ The analysis involves several steps:
 
 The study reveals that brain networks exhibit distinct topological features, including small-world and scale-free properties, which are essential for efficient information processing and resilience against failures. Age-related changes are evident in the network structure, with older age groups showing more specialized and robust connectivity patterns.
 
-**Note:** 
-1) Some outputs in the Jupyter notebook may not display correctly due to rendering limitations. For the best viewing experience, consider running the notebook locally using Jupyter Notebook or Jupyter Lab.
-2) Some outputs in the PDF may not display correctly due to rendering limitations on GitHub. For the best viewing experience, please access the PDF through this [link to Google Drive](https://drive.google.com/file/d/1v1A628gjY4lg0XAI0gEc_RLblxOwjbOJ/view?usp=sharing).
 
 
